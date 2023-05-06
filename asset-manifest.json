@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.663df3f1.css",
+    "main.js": "/static/js/main.ed285f37.js",
+    "static/media/github.svg": "/static/media/github.cf13a53c2115943cd331.svg",
+    "static/media/vk.svg": "/static/media/vk.91ff2d085e67c3afd8c4.svg",
+    "static/media/telegram.svg": "/static/media/telegram.41cb548e059226604df8.svg",
+    "index.html": "/index.html",
+    "static/media/gmail.svg": "/static/media/gmail.9454f8b5ef2c9941c48b.svg",
+    "main.663df3f1.css.map": "/static/css/main.663df3f1.css.map",
+    "main.ed285f37.js.map": "/static/js/main.ed285f37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.663df3f1.css",
+    "static/js/main.ed285f37.js"
+  ]
+}
